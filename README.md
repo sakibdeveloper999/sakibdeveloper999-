@@ -52,9 +52,6 @@ MySQL • MongoDB • Data Modeling • Query Optimization • Indexing & Relati
 **WordPress Expertise:**  
 Custom Theme Development • Plugin Development • WooCommerce Integration • Elementor Custom Widgets • Headless WordPress (REST API) • Security & Performance Optimization
 
-**Mobile App Development:**  
-React Native • Firebase Authentication • Firestore Database • Push Notifications • Expo CLI
-
 **Tools & Utilities:**  
 Git • GitHub • VS Code • Postman • npm/yarn • cPanel • phpMyAdmin • Docker (learning)  
 
