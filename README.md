@@ -13,10 +13,15 @@
 
 ### 🌟 About Me
 
-I am **Md. Sakib**, a passionate **Full-Stack Web Developer** from **Bangladesh** 🇧🇩.  
-I specialize in **WordPress Development** (themes & plugins) and **MERN Stack Applications**. I also have experience in building **mobile apps** with React Native and **complex web systems** such as LMS and ERP platforms.  
+🌟 About Me
 
-I am deeply interested in **modern web technologies, performance optimization, security, and clean code practices**. I believe in building scalable, maintainable, and user-friendly applications that solve real-world problems.  
+I am Md. Sakib, a passionate Full-Stack Web Developer from Bangladesh 🇧🇩.
+I specialize in WordPress Development (custom themes & plugins) and MERN Stack Applications.
+I build dynamic, high-performance, and secure web applications with a focus on clean, maintainable code and a seamless user experience.
+
+With a strong foundation in HTML, CSS, JavaScript, PHP, MySQL, React.js, Node.js, and Express.js, I can manage both the front-end and back-end of complex systems — from small business websites to enterprise-level applications like ERP and LMS platforms.
+
+I am deeply interested in modern web technologies, performance optimization, SEO, security, and best coding practices. I believe in building scalable, maintainable, and user-friendly applications that solve real-world problems and deliver long-term value. 
 
 **Personal strengths:**
 - Problem-solving mindset with attention to detail  
