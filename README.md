@@ -13,8 +13,6 @@
 
 ### 🌟 About Me
 
-🌟 About Me
-
 I am Md. Sakib, a passionate Full-Stack Web Developer from Bangladesh 🇧🇩.
 I specialize in WordPress Development (custom themes & plugins) and MERN Stack Applications.
 I build dynamic, high-performance, and secure web applications with a focus on clean, maintainable code and a seamless user experience.
