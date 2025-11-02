@@ -26,7 +26,7 @@ I am deeply interested in modern web technologies, performance optimization, SEO
 - Ability to turn ideas into working applications  
 - Strong understanding of both front-end and back-end architecture  
 - Passion for learning and adopting new frameworks and technologies
-
+tddt
 ---
 
 ### 🚀 Current Focus & Projects
