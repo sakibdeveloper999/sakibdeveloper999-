@@ -112,7 +112,7 @@ Figma • Canva • Netlify • Vercel • Hostinger • WordPress Hosting • C
 - 🌐 **Portfolio:** [https://sakibdeveloper.com](https://sakibdeveloper.com)  
 - 📧 **Email:** [contact@sakibdeveloper.com](mailto:contact@sakibdeveloper.com) / [sakibdeveloper999@gmail.com](mailto:sakibdeveloper999@gmail.com)  
 - 💼 **GitHub:** [@sakibdeveloper999](https://github.com/sakibdeveloper999)  
-- 🌍 **Social Media:** `@sakibdeveloper` (LinkedIn, Instagram, Twitter, Facebook, etc.)
+- 🌍 **Social Media:** `@sakibdeveloper` (LinkedIn, Instagram, Twitter, Facebook, TikTok, etc.)
 
 ---
 
