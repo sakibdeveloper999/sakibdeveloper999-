@@ -22,7 +22,7 @@ With a strong foundation in HTML, CSS, JavaScript, PHP, MySQL, React.js, Node.js
 I am deeply interested in modern web technologies, performance optimization, SEO, security, and best coding practices. I believe in building scalable, maintainable, and user-friendly applications that solve real-world problems and deliver long-term value. 
 
 **Personal strengths:**
-- Problem-solving mindset with attention to detail  
+- Problem-solving mindset with attention to detail 
 - Ability to turn ideas into working applications  
 - Strong understanding of both front-end and back-end architecture  
 - Passion for learning and adopting new frameworks and technologies
