@@ -4,9 +4,10 @@
 # 👋 Hi, I'm **Md. Sakib**
 💻 **Full-Stack Web Developer | WordPress Expert | MERN Stack Learner | Tech Enthusiast**
 
+[![Stars](https://img.shields.io/github/stars/sakibdeveloper999?style=social)](https://github.com/sakibdeveloper999)
+
 [![Followers](https://img.shields.io/github/followers/sakibdeveloper999?style=social)](https://github.com/sakibdeveloper999)
 [![MY Resume](https://github.com/sakibdeveloper999/sakibdeveloper999/blob/main/Md.%20Sakib(Full-Stack%20dev)-%20Resume%20-%2001834322352.pdf)
-[![Stars](https://img.shields.io/github/stars/sakibdeveloper999?style=social)](https://github.com/sakibdeveloper999)
 [![Profile Views](https://komarev.com/ghpvc/?username=sakibdeveloper999&color=blueviolet)](https://github.com/sakibdeveloper999)
 [![GitHub Activity](https://img.shields.io/github/last-commit/sakibdeveloper999/sakibdeveloper999)](https://github.com/sakibdeveloper999)
 
