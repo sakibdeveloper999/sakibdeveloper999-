@@ -4,7 +4,7 @@
 # 👋 Hi, I'm **Md. Sakib**
 💻 **Full-Stack Web Developer | WordPress Expert | MERN Stack Learner | Tech Enthusiast**
 
-[![MY Resume](https://github.com/sakibdeveloper999/sakibdeveloper999/blob/main/Md.%20Sakib(Full-Stack%20dev)-%20Resume%20-%2001834322352.pdf)]
+[[MY Resume](https://github.com/sakibdeveloper999/sakibdeveloper999/blob/main/Md.%20Sakib(Full-Stack%20dev)-%20Resume%20-%2001834322352.pdf)]
 
 [![Stars](https://img.shields.io/github/stars/sakibdeveloper999?style=social)](https://github.com/sakibdeveloper999)
 [![Followers](https://img.shields.io/github/followers/sakibdeveloper999?style=social)](https://github.com/sakibdeveloper999)
